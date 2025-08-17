@@ -7,9 +7,10 @@ A full-stack web application designed to modernize garage operations and streaml
 - Dashboard & Analytics
 - Cloud Deployment (GCP)
 
-## Tech Stack
-Frontend: React + TypeScript, Tailwind, Radix UI  
-Backend: Node.js, Express.js, PostgreSQL, Drizzle ORM  
-Deployment: Google Cloud Platform
-
+## 📊 System Architecture
+- **Frontend:** React + TypeScript SPA  
+- **Backend:** REST API with Express.js  
+- **Database:** PostgreSQL (relational schema, indexing, transactions)  
+- **Cloud Infrastructure:** GCP (scalable, high availability)
+- 
 See docs/ for report and database setup.
